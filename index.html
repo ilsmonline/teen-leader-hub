@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#d71920" />
+  <title>Breakaway Teen Camp Leader Hub</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar" id="home">
+    <a class="brand" href="#home" aria-label="Breakaway Teen Camp Leader Hub">
+      <span class="brand-mark">TC</span>
+      <span><strong>Teen Camp</strong><small>Leader Hub</small></span>
+    </a>
+    <a class="top-action" href="https://o2o.to/i/7BZSUIW3TM1K" target="_blank" rel="noopener">WhatsApp</a>
+  </header>
+
+  <nav class="quick-nav" aria-label="Main sections">
+    <a href="#schedule">Schedule</a>
+    <a href="#games">Games</a>
+    <a href="#menu">Menu</a>
+    <a href="#high-ropes">High Ropes</a>
+    <a href="#contacts">Contacts</a>
+    <a href="#map">Map</a>
+    <a href="#resources">Resources</a>
+  </nav>
+
+  <main>
+    <section class="first-screen" aria-labelledby="page-title">
+      <div class="theme-panel">
+        <img src="assets/theme-undefeated.png" alt="We are undefeated in Jesus Christ theme artwork" />
+      </div>
+      <div class="command-panel">
+        <p class="eyebrow">Breakaway Teen Camp</p>
+        <h1 id="page-title">Leader Hub</h1>
+        <div class="quick-actions" aria-label="Priority leader links">
+          <a class="button button-red" href="https://o2o.to/i/7BZSUIW3TM1K" target="_blank" rel="noopener">Join WhatsApp</a>
+          <a class="button" href="files/arrival-info.pdf" target="_blank" rel="noopener">Arrival Info</a>
+          <a class="button" href="#schedule">Schedule</a>
+          <a class="button" href="#games">Games</a>
+          <a class="button" href="https://docs.google.com/document/d/1u5XWfX2akUAvLmDvOFkI9HONCMnuoAXQcxzNeORFZKE/edit?usp=sharing" target="_blank" rel="noopener">Manual</a>
+        </div>
+        <div class="today-card">
+          <div>
+            <p class="eyebrow">Choose Schedule Group</p>
+            <h2 id="selected-group-title">Green / Blue / Pink / Red</h2>
+          </div>
+          <div class="group-switcher" id="home-group-switcher"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="schedule" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Daily Flow</p>
+        <h2>Schedule</h2>
+        <p>Pick the color group your team belongs to. The hub remembers your choice on this device.</p>
+      </div>
+      <div class="schedule-controls">
+        <div class="group-switcher" id="schedule-group-switcher"></div>
+        <div class="tabs" role="tablist" aria-label="Schedule days" id="schedule-tabs"></div>
+      </div>
+      <div class="schedule-note" id="schedule-note"></div>
+      <div class="schedule-list" id="schedule-list"></div>
+    </section>
+
+    <section id="games" class="section section-red">
+      <div class="section-heading">
+        <p class="eyebrow">Activities</p>
+        <h2>Games & Dreams</h2>
+        <p>Activity blocks, team comp matchups, individual competitions, and leader-ready instructions.</p>
+      </div>
+      <div class="add-location-grid" id="add-location-grid"></div>
+      <div class="game-grid" id="game-schedule"></div>
+      <div class="subsection-heading">
+        <h3>Individual Competitions</h3>
+        <p>Played during free time Tue & Wed</p>
+      </div>
+      <div class="individual-grid" id="individual-grid"></div>
+      <div class="activity-list" id="activity-list"></div>
+      <div class="resource-row">
+        <a class="button button-light" href="files/game-descriptions.pdf" target="_blank" rel="noopener">Open descriptions PDF</a>
+        <a class="button button-light" href="assets/mega-relay-map.png" target="_blank" rel="noopener">Mega Relay Map</a>
+      </div>
+    </section>
+
+    <section id="menu" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Dining Hall</p>
+        <h2>Menu</h2>
+        <p>Meal times reflect the two color-group service rotations.</p>
+      </div>
+      <div class="menu-grid" id="menu-grid"></div>
+      <a class="text-link" href="files/menu.pdf" target="_blank" rel="noopener">Open original menu PDF</a>
+    </section>
+
+    <section id="high-ropes" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Free Time</p>
+        <h2>High Ropes</h2>
+        <p>High Ropes runs during free time at 3:00 PM by paper wristband color. Open a wristband group to see student names, cabins, and churches.</p>
+      </div>
+      <div class="high-ropes-grid" id="high-ropes-grid"></div>
+    </section>
+
+    <section id="contacts" class="section section-dark">
+      <div class="section-heading">
+        <p class="eyebrow">Help Fast</p>
+        <h2>Deans & Directors</h2>
+        <p>Tap a phone number to call. Photos are included for quick recognition during camp.</p>
+      </div>
+      <div class="contact-grid" id="contact-grid"></div>
+    </section>
+
+    <section id="map" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Campus</p>
+        <h2>Camp Map</h2>
+        <p>Open the map full-size if you need to zoom in on lodging, activities, dining, or registration.</p>
+      </div>
+      <a class="image-frame" href="assets/camp-map.png" target="_blank" rel="noopener">
+        <img src="assets/camp-map.png" alt="Lake Williamson Teen Camp map" />
+      </a>
+    </section>
+
+    <section id="resources" class="section">
+      <div class="section-heading">
+        <p class="eyebrow">Quick Links</p>
+        <h2>Leader Resources</h2>
+        <p>Common camp references and links leaders need during the week.</p>
+      </div>
+      <div class="resource-grid" id="resource-grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Breakaway Teen Camp Leader Hub</p>
+    <a href="#home">Back to top</a>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

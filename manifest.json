@@ -1,0 +1,8 @@
+{
+  "name": "Breakaway Teen Camp Leader Hub",
+  "short_name": "Teen Camp Hub",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f3ee",
+  "theme_color": "#d71920"
+}
