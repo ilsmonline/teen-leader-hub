@@ -77,7 +77,7 @@ const schedule = {
     ['8:15 AM', 'Breakfast - Dining Hall', 'orange-purple-yellow-gray'],
     ['9:15 AM', 'Team Meeting - Team Flags; Girls: Field Flags; Guys: Parking Lot Flags', 'all'],
     ['9:30 AM', 'Girls - Team Comp; Guys - ADD', 'all'],
-    ['10:45 AM', 'Cabin Leader Meeting - Upstairs AC 205/206; 'all'],
+    ['10:45 AM', 'Cabin Leader Meeting - Upstairs AC 205/206', 'all'],
     ['10:45 AM', 'Guys - All Grades - Auditorium', 'all'],
     ['11:00 AM', 'Girls - All Grades - Schneider Center', 'all'],
     ['11:45 AM', 'Lunch - Dining Hall', 'green-blue-pink-red'],
