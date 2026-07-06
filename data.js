@@ -42,7 +42,7 @@ const schedule = {
     ['7:00 PM', 'Evening Rally 1 - Auditorium', 'green-blue-pink-red'],
     ['7:00 PM', 'Cafe, Activities & Store - AC', 'orange-purple-yellow-gray'],
     ['7:00 PM', 'New Cabin Leader 101 - Upstairs AC', 'green-blue-pink-red'],
-    ['7:30 PM', 'Team Captain Meeting - Schneider Center, Lewis Room', 'all'],
+    ['7:30 PM', 'Team Captain Meeting - Schneider Center, Clark Room', 'all'],
     ['9:00 PM', 'Evening Rally 2 - Auditorium', 'orange-purple-yellow-gray'],
     ['9:00 PM', 'Cafe, Activities & Store - AC', 'green-blue-pink-red'],
     ['9:00 PM', 'New Cabin Leader 101 - Upstairs AC', 'orange-purple-yellow-gray'],
