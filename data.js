@@ -32,7 +32,7 @@ const schedule = {
     ['2:00 PM', 'Praise & Worship - Auditorium', 'all'],
     ['2:30 PM', 'Welcome to Camp / Intro Directors - Auditorium', 'all'],
     ['2:50 PM', 'Meet Your Cabin Leaders - at your room', 'all'],
-    ['2:50 PM', 'Support Staff Meeting - location TBD', 'all'],
+    ['2:50 PM', 'Support Staff Meeting - Schneider Ctr Clark Rm', 'all'],
     ['3:30 PM', 'Team Meeting at Team Flag', 'all'],
     ['4:00 PM', 'ADD - Guys: Auditorium; Girls: Schneider Center', 'all'],
     ['5:00 PM', 'Camp Director Dismissal - Girls: Auditorium; Guys: Schneider Center', 'all'],
