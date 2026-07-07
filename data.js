@@ -136,7 +136,7 @@ const contacts = [
   { role: 'Director', name: 'Samantha Landrus', phone: '(217) 232-1980', photo: 'photos/Samantha-Landrus.jpg' },
   { role: 'Student Director (Male Dean)', name: 'Luke Marsiglio', phone: '(515) 771-8415', photo: 'photos/luke-marsiglio.jpg' },
   { role: 'Student Director (Male Dean)', name: 'Ethan Mills', phone: '(281) 967-0325', photo: 'photos/Ethan-Mills.jpg' },
-  { role: 'Student Director (Female Dean)', name: 'Abigail Marsiglio', phone: '(914) 513-1931', photo: 'photos/abigail-marsiglio.jpg' },
+  { role: 'Student Director (Female Dean)', name: 'Abigail Marsiglio', phone: '(914) 512-1931', photo: 'photos/abigail-marsiglio.jpg' },
   { role: 'Student Director (Female Dean)', name: 'Heide Woodward', phone: '(217) 274-5900', photo: 'photos/Heide Woodward.jpg' }
 ];
 
