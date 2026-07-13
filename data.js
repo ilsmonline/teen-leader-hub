@@ -603,9 +603,9 @@ const highRopes = [
       ['Jonathan Carpenter', 'C-12', 'Urbana-Stone Creek Church'],
       ['Tanner Hastings', 'C-12', 'Urbana-Stone Creek Church'],
       ['Noah Polk', 'C-12', 'Urbana-Stone Creek Church'],
-      ['Andrew Bougher', 'C-15', 'Manhattan-Thrive Church'],
-      ['Jace Gillum', 'C-15', 'Diamond-Christian Life AG'],
-      ['Nathan Klawes', 'C-15', 'Manhattan-Thrive Church'],
+      ['Andrew Bougher', '628', 'Manhattan-Thrive Church'],
+      ['Jace Gillum', '628', 'Diamond-Christian Life AG'],
+      ['Nathan Klawes', '628', 'Manhattan-Thrive Church'],
       ['Anna Prichard', 'West Lounge', 'Morton-Elevate Church']
     ]
   }
