@@ -221,7 +221,7 @@ const gameSchedule = [
 ];
 
 const addLocations = [
-  { day: 'Monday', time: '4:00 PM', details: ['Guys ADD - Auditorium', 'Girls ADD - Schneider Center'] },
+  { day: 'Monday', time: '4:00 PM', details: ['Guys ADD - Schneider Center', 'Girls ADD - Auditorium'] },
   { day: 'Tuesday', time: '9:30 AM', details: ['Guys ADD - Auditorium', 'Girls Team Comp - see Tuesday matchups'] },
   { day: 'Tuesday', time: '1:45 PM', details: ['Girls ADD - Auditorium', 'Boys Team Comp - see Tuesday matchups'] },
   { day: 'Wednesday', time: '9:30 AM', details: ['Guys ADD - Auditorium', 'Girls Team Comp - see Wednesday matchups'] },
