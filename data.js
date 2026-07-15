@@ -612,7 +612,7 @@ const highRopes = [
 ];
 
 const resources = [
-  { title: 'Camp Manual', detail: 'Open Google Doc', href: 'https://docs.google.com/document/d/1u5XWfX2akUAvLmDvOFkI9HONCMnuoAXQcxzNeORFZKE/edit?usp=sharing' },
+  { title: 'Camp Manual', detail: 'Open Google Doc', href: 'https://heyzine.com/flip-book/21a30032b0.html' },
   { title: 'Give to STL', detail: 'Open giving link', href: 'https://o2o.to/i/UJ20EOLMKTGZ' },
   { title: 'Register for Alive Conference', detail: 'Open registration link', href: 'https://o2o.to/i/052V68WEJCD7' },
   { title: 'How to Get a Crown Room', detail: 'Open checklist PDF', href: 'files/crown-room-checklist.pdf' },
